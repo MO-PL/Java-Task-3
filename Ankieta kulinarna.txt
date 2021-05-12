@@ -1,0 +1,12 @@
+Ankieta: Ankieta kulinarna
+
+Pytanie 1: Które z dań wybrałbyś na jutrzejszy obiad?
+	1. Szaszłyki drobiowe
+	2. Falafele w tortilli
+	3. Jajko sadzone ze szpinakiem i ziemniakami
+
+Pytanie 2: Jakie warzywo uważasz za najzdrowsze?
+	1. Kalafior
+	2. Ziemniak
+	3. Rzodkiewka
+	4. Marchewka

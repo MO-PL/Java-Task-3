@@ -54,7 +54,7 @@ public class ProgrammerService {
 		User exampleUser = new User();
 		DataProcessing.setSalaryOfUser(exampleUser, 20);
 
-//      Make 2 of previous tasks parallel
+//     		Make 2 of previous tasks parallel
 
 		System.out.println("Task 6:");
 

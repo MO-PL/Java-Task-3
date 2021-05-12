@@ -190,5 +190,6 @@ public class DataProcessing {
 
         System.out.println("Task 3 Not Parallel: " + secondTaskNotParallelTime);
         System.out.println("Task 3 Parallel: " + secondTaskParallelTime);
+        System.out.println();
     }
 }
